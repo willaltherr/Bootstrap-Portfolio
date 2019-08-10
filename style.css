@@ -1,0 +1,50 @@
+body{
+    margin: 0%;
+    background-image: url("Images/gravel.png");
+    font-family: 'arial', 'Helvetica Neue', Helvetica, sans-serif;
+}
+
+.navbar-brand {
+    background-color: brown;
+    padding: 15px;
+}
+
+.navbar {
+    padding: 0%;
+    margin-bottom: 25px;
+}
+
+.container {
+    border: 1px solid #333;
+    background:  rgba(128, 128, 128, 0.699);
+}
+
+p {
+    font-weight: 700;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h2 {
+    color: brown;
+}
+
+hr {
+    background-color: white;
+}
+
+.btn {
+    background-color: brown;
+    margin-bottom: 15px;
+    width: 100px;
+}
+
+.footer {
+    background: rgba(128, 128, 128, 0.699);
+    color: white;
+    text-align: center;
+    font-size: 14px;
+    padding: 20px;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
