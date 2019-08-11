@@ -42,17 +42,6 @@ hr {
     width: 100px;
 }
 
-.footer {
-    background: rgba(128, 128, 128, 0.699);
-    color: white;
-    text-align: center;
-    font-size: 14px;
-    padding: 20px;
-    position: absolute;
-    bottom: 0;
-    width: 100%;
-}
-
 .img-fluid {
     max-width: 100%;
     height: auto;
@@ -65,8 +54,8 @@ hr {
 }
 
 .fixed-bottom {
-    color: white;
-    background: black;
+    color: rgba(255,255,255,.5);
+    background: #343a40;
     margin-top: 25px;
 }
 
