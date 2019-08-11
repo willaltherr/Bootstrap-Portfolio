@@ -20,7 +20,6 @@ body{
 }
 
 p {
-    font-weight: 700;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
@@ -47,4 +46,15 @@ hr {
     position: absolute;
     bottom: 0;
     width: 100%;
+}
+
+.img-fluid {
+    max-width: 100%;
+    height: auto;
+    padding-bottom: 20px;
+}
+
+.carousel-caption {
+    background-color: brown;
+    padding: 0;
 }
