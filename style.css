@@ -14,9 +14,14 @@ body{
     margin-bottom: 25px;
 }
 
+.nav-link {
+    margin-left: 4%;
+}
+
 .container {
     border: 1px solid #333;
     background:  rgba(128, 128, 128, 0.699);
+    margin-bottom: 20%;
 }
 
 p {
@@ -30,6 +35,8 @@ h2 {
 h3 {
     font-size: 16px;
     padding: 5px 25px 0 25px;
+    max-width: 100%;
+    text-align: center;
 }
 
 hr {
@@ -44,7 +51,6 @@ hr {
 
 .img-fluid {
     max-width: 100%;
-    height: auto;
     padding-bottom: 20px;
 }
 
